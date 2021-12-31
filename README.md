@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @validpools. We are aiming to support projects who needs validators nodes across the world. We are using own server and network infrastructure and have expirience to support your redundant validators needs
